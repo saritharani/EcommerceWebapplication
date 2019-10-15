@@ -1,2 +1,0 @@
-# EcommerceWebapplication
-Ecommerce project
